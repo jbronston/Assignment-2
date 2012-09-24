@@ -1,2 +1,6 @@
 List of ECE Courses
-Web Arch & Cloud Computing
+
+
+Web Arch & Cloud Computing 
+
+VLSI Design
