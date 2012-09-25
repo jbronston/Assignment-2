@@ -4,3 +4,5 @@ List of ECE Courses
 Web Arch & Cloud Computing 
 
 VLSI Design
+
+jbronston: Operating Systems
